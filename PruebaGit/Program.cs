@@ -10,6 +10,8 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Primer cambio");
+            Console.WriteLine("Segundo cambio");
         }
     }
 }
