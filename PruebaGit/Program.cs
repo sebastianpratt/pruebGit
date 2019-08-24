@@ -10,7 +10,7 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("impresion");
+            Console.WriteLine("impresin");
             
         }
     }
